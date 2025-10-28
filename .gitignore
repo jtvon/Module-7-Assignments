@@ -1,0 +1,27 @@
+# Large dataset files - DO NOT COMMIT
+data/food_images/
+data/huffpost/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
